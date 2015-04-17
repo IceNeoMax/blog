@@ -1,0 +1,18 @@
+<CacBenh>
+    <Benh name="Viêm phổi">
+        <TrieuChung value="80">Sốt cao</TrieuChung>
+        <TrieuChung value ="80">Rét run</TrieuChung>
+        <TrieuChung value="60">Ho đờm</TrieuChung>
+        <TrieuChung value="80">Đau ngực khi hít thở</TrieuChung>
+    </Benh>
+    <Benh name="Hên">
+        <TrieuChung value="40">Khó thở</TrieuChung>
+        <TrieuChung value="60">Thở rít</TrieuChung>
+        <TrieuChung value="60">Đau ngực</TrieuChung>
+        <TrieuChung value="40">Dị ứng</TrieuChung>
+    </Benh>
+    <Benh name="Viêm phế quản">
+        <TrieuChung value="30">Ho nhiều</TrieuChung>
+        <TrieuChung value="40">Ho kéo dài</TrieuChung>
+    </Benh>
+</CacBenh>
